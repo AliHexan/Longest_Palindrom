@@ -34,4 +34,4 @@ def longestPalindrome(str):
     print(mx)
 
 
-longestPalindrome("forgeeksskeegfor")
+longestPalindrome("aaabaacghjk")
